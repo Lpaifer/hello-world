@@ -1,2 +1,2 @@
-# hello world
- primeiro repositório direcionado
+Hello, world
+Seja bem vindo ao meu primeiro repositório 
